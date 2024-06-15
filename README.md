@@ -7,3 +7,4 @@ Here we created a program that analyse a subject's gait with thhe web cam of a L
 the subject in the program. And then the subeject will have to stand at a certain distance for a few seconds to calibrate the code. Only one calibration 
 in certain setup will enough.
 
+Some of the latest output are saved here as files. They might have garbage value...
