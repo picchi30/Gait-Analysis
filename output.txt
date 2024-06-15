@@ -1,0 +1,18 @@
+MOTION ANALYSIS
+stride length (left): 49.60429641019819
+stride length (right) : 113.53610314368271
+Cycle time (left) : 1.1484984000001077
+Cycle time (right) : 0.7602191999999377
+Average velocity of left heel : 0.43190566404092107
+Average velocity of right heel :1.4934653471484542
+Cadence (left) : 104.48425526756392
+Cadence (right) : 157.84920980686863
+MOTION ANALYSIS
+stride length (left): 49.60429641019819
+stride length (right) : 113.53610314368271
+Cycle time (left) : 1.1484984000001077
+Cycle time (right) : 0.7602191999999377
+Average velocity of left heel : 0.43190566404092107
+Average velocity of right heel :1.4934653471484542
+Cadence (left) : 104.48425526756392
+Cadence (right) : 157.84920980686863
